@@ -26,4 +26,4 @@ https://garda-b.github.io/product-widget/
 
 ### Future Improvements
 
-Although the current version is optimized for desktop (1440px) and mobile (375) as per the Figma design, a further breakpont could be introduced to streamline the design for tablets as well.  
+Although the current version is optimized for desktop (1440px) and mobile (375px) as per the Figma design, a further breakpont could be introduced to streamline the design for tablets as well.  
