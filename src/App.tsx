@@ -27,7 +27,7 @@ function App() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('/product-widget/src/widget-data.json');
+        const response = await fetch('./widget-data.json');
         const widgetData = await response.json();
         setData(widgetData);
 
