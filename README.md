@@ -1,8 +1,6 @@
 ### Overview
 
-For this project, I opted for React with Typescript and Vite as the build tool. React is my current go-to application for frontend client-side applications. 
-
-I understand that you use Vue.js, and I am eager to embrace new challenges and expand my expertise by learning it. I am open to adapting to different frameworks and technologies based on the team's preferences and project requirements.
+For this project, I opted for React with Typescript and Vite as the build tool. 
 
 ### Technology Stack
 
